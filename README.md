@@ -3,7 +3,7 @@
 
 
 # QuickIM
-QuickIM is an instant messaging system written in Python with its own binary protocol.
+QuickIM is an self-hostable instant messaging system written in Python with its own binary protocol.
 
 ## Features
 ### Implemented
