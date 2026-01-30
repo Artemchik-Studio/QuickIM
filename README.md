@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> This messenger doesn't have a public instance yet. If someone is willing to host one, email artemchikdornikov@gmail.com
+
+
 # QuickIM
 QuickIM is an instant messaging system written in Python with its own binary protocol.
 
