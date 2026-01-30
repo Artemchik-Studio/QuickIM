@@ -36,7 +36,7 @@ cd QuickIM
 ### Server
 To start the server, just run `python server.py`
 ### Client
-The official QuickIM client requires PyQt5 to run (compiled client is in releases for Windows)
+The official QuickIM client requires PyQt5 to run (~~compiled client is in releases for Windows~~)
 #### Windows
 `pip install PyQt5` or `python -m pip install PyQt5`
 #### Linux (Debian-based)
